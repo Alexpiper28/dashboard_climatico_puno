@@ -658,7 +658,6 @@ def titulo_seccion(icono: str, titulo: str) -> None:
         width="stretch",
     )
 
-
 def estilo_figura(fig, altura: int = 360, leyenda: bool = True):
     fig.update_layout(
         template="plotly_white",
@@ -689,7 +688,6 @@ def porcentaje_cambio(actual: float, referencia: float) -> float:
         return 0.0
     return ((actual - referencia) / abs(referencia)) * 100
 
-
 def resetear_filtros() -> None:
     st.session_state["f_provincias"] = provincias_disponibles
     st.session_state["f_estaciones"] = estaciones_disponibles
@@ -700,7 +698,6 @@ def resetear_filtros() -> None:
 # =========================================================
 # DATOS Y FILTROS
 # =========================================================
-
 if not DATA_PATH.exists():
     st.error(
         "No se encontro el dataset. Verifica que exista el archivo "
