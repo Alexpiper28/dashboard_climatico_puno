@@ -81,8 +81,8 @@ Antes de ejecutar el proyecto, se necesita:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/Alexpiper28/dashboard_visualizacion.git
-cd dashboard_visualizacion
+git clone https://github.com/Alexpiper28/dashboard_climatico_puno.git
+cd dashboard_climatico_puno
 ```
 
 También se puede descargar el repositorio como archivo ZIP desde GitHub y extraerlo en una carpeta.
