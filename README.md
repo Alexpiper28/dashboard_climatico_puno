@@ -172,6 +172,22 @@ data/datos_limpios_clima_puno_2020_2025.csv
 5. Abrir **Mapa y territorio** para comparar geográficamente las provincias.
 6. Descargar los registros filtrados desde la sección de datos y metodología.
 
+## Principales hallazgos
+
+- Se analizaron 28 496 registros climáticos correspondientes a las 13 provincias de Puno.
+- La temperatura media regional fue de 8.23 °C.
+- San Román presentó la mayor temperatura media, con 9.83 °C.
+- Carabaya registró la menor temperatura media, con 4.96 °C, y la mayor precipitación acumulada, con 7 650.23 mm.
+- Se identificaron 5 811 registros con helada, equivalentes al 20.4 % del dataset.
+- Lampa presentó la mayor frecuencia de heladas, con 1 172 registros.
+- El año 2024 presentó la mayor temperatura media anual, mientras que 2023 registró la mayor precipitación diaria promedio.
+
+## Enlaces del proyecto
+
+- Dashboard publicado: https://dashboard-climatico-puno.streamlit.app/
+
+- Repositorio: https://github.com/Alexpiper28/dashboard_climatico_puno
+
 ## Licencia y uso académico
 
 Proyecto desarrollado con fines académicos para el curso de Visualización de Datos de la Universidad Nacional del Altiplano.
